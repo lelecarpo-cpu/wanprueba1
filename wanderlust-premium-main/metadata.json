@@ -1,0 +1,7 @@
+{
+  "name": "Wanderlust - Premium Digital Routes Marketplace",
+  "description": "A high-end platform for professional creators to design, sell, and share digital routes for tourism, fitness, and exploration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
